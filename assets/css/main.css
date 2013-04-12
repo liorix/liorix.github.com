@@ -3,12 +3,12 @@
 
 body {
 	/* Change the background image here  */
-	background: url('../img/bg2.jpg') #000 top center fixed no-repeat;
-	background-size:150%;
+	background: url('../img/bg6.jpg') #000 top center fixed no-repeat;
+	background-size:100%;
 	font-family:'Open Sans',sans-serif;
 }
 
-a, a:visited{color:#d54872;
+a, a:visited{color:#FFFFFF;
 	
 	-webkit-transition:all .1s linear;
 	-moz-transition:all .1s linear;
@@ -52,12 +52,13 @@ h1 {
 
 .main-container .container {
 	padding:30px;
+	height: 400px;
 }
 
 /* Section Styles  */
 
 #intro {
-	margin-top:100px;
+	margin-top:180px;
 	text-align:center;
 	min-height:400px;
 	padding:0 0 50px;
@@ -343,4 +344,9 @@ h1 {
 	height:16px;
 	position:relative;
 	display:none;
+}
+
+.btn-primary
+{
+	color:white;
 }
