@@ -53,7 +53,7 @@ h1 {
 
 .main-container .container {
 	padding:30px;
-	height: 350px;
+	height: 600px;
 }
 
 /* Section Styles  */
@@ -76,16 +76,36 @@ h1 {
 
 #about {
 	/*background:#fff;*/
-	background-color:rgba(255,255,255,0.7);
+	/*background-color:rgba(255,255,255,0.7);*/
+	background-color:rgba(0,0,0,0.8);
 }
 
+#thespace
+{
+	background: url('../img/thespace.jpg') #000 top center no-repeat;
+	background-size: 130%;
+	height: 700px;
+}
+
+#thespace p
+{
+	text-align: center;
+}
+
+#thespace .container
+{
+	width: 700px;
+	border-radius: 10px;
+	margin-top: 15px;
+	background-color:rgba(0,0,0,0.6);
+	height: 100px;
+}
 #team {
 	background:#000;
 	background:rgba(154,39,73,0.8);
 }
 #contact {
 	background:#202020;
-	padding-bottom:35px;
 }
 
 #contact .span4
