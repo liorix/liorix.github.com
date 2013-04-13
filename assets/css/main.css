@@ -3,7 +3,7 @@
 
 body {
 	/* Change the background image here  */
-	background: url('../img/bg6.jpg') #000 top center fixed no-repeat;
+	background: url('../img/bg7.jpg') #000 top center fixed no-repeat;
 	background-size:100%;
 	font-family:'Open Sans',sans-serif;
 }
@@ -58,7 +58,7 @@ h1 {
 /* Section Styles  */
 
 #intro {
-	margin-top:180px;
+	margin-top:160px;
 	text-align:center;
 	min-height:400px;
 	padding:0 0 50px;
@@ -74,12 +74,13 @@ h1 {
 }
 
 #about {
-	background:#fff;
+	/*background:#fff;*/
+	background-color:rgba(255,255,255,0.7);
 }
 
 #team {
 	background:#000;
-	background:rgba(0,0,0,0.8);
+	background:rgba(154,39,73,0.8);
 }
 #contact {
 	background:#202020;
