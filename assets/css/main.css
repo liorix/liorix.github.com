@@ -105,7 +105,11 @@ h1 {
 	background:rgba(154,39,73,0.8);
 }
 #contact {
-	background:#202020;
+	background:#202020;	
+}
+
+#contact .container{
+	height: 500px;
 }
 
 #contact .span4
