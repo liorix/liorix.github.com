@@ -86,7 +86,20 @@ h1 {
 	background:#202020;
 }
 
+#contact .span4
+{
+	width: 360px;
+}
 
+
+#contact iframe
+{
+	max-height: 300px;
+}
+#contact h1
+{
+	margin-top: 40px;
+}
 /* Navbar Styles  */
 
 .navbar-fixed-top {
