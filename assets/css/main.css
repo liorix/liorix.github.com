@@ -50,6 +50,7 @@ h1 {
 	position:relative;
 }
 
+
 .main-container .container {
 	padding:30px;
 	height: 350px;
@@ -60,7 +61,7 @@ h1 {
 #intro {
 	margin-top:160px;
 	text-align:center;
-	min-height:400px;
+	min-height:500px;
 	padding:0 0 50px;
 }
 
@@ -84,6 +85,7 @@ h1 {
 }
 #contact {
 	background:#202020;
+	padding-bottom:35px;
 }
 
 #contact .span4
