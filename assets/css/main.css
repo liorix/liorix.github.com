@@ -100,6 +100,18 @@ h1 {
 	background-color:rgba(0,0,0,0.6);
 	height: 100px;
 }
+
+#companies h1
+{
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+
+#companies ul
+{
+	margin-top: 30px;	
+}
+
 #team {
 	background:#000;
 	background:rgba(154,39,73,0.8);
