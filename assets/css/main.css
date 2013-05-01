@@ -87,7 +87,7 @@ h1 {
 	height: 700px;
 }
 
-#thespace p
+#thespace h1, #thespace h2
 {
 	text-align: center;
 }
@@ -96,25 +96,33 @@ h1 {
 {
 	width: 700px;
 	border-radius: 10px;
-	margin-top: 15px;
+    margin-top: 20px;
+	padding: 15px;
 	background-color:rgba(0,0,0,0.6);
-	height: 100px;
+	height: 160px;
+}
+
+#companies
+{
+    background:#FFFFFF;
+    background:rgba(100,100,100,0.8);
 }
 
 #companies h1
 {
+    color: #FFFFFF;
 	margin-top: 30px;
 	margin-bottom: 60px;
 }
 
 #companies ul
 {
-	margin-top: 30px;	
+	margin-top: 30px;
 }
 
 #team {
-	background:#000;
-	background:rgba(154,39,73,0.8);
+	background:#0E67B9;
+	background:rgba(14,103,185,0.8);
 }
 #contact {
 	background:#202020;	
