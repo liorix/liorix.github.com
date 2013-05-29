@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h1 {
 	font-weight:300;
-	font-size:50px;
+	font-size:40px;
 	text-align:center;
 	line-height:55px;
 	text-shadow:0 1px 1px rgba(0,0,0,0.6);
@@ -85,6 +85,7 @@ h1 {
 	background: url('../img/thespace.jpg') #000 top center no-repeat;
 	background-size: 130%;
 	height: 700px;
+    display: none;
 }
 
 #thespace h1, #thespace h2
@@ -104,8 +105,9 @@ h1 {
 
 #companies
 {
-    background:#FFFFFF;
-    background:rgba(100,100,100,0.8);
+    /*background:#FFFFFF;*/
+    /*background:#0E67B9;*/
+    background:#8B3C1A;
 }
 
 #companies h1
