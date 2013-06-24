@@ -65,8 +65,7 @@
 	<div class="main-container">
 		<div class="container-fluid" id="intro">	
 		<div class="container">	
-			<div class="row span6 center">
-				<h1>Bringing Israeli startups to the US market</h1>
+			<div class="row span6 center" style="margin-top: 160px;">
 				<a href="index.html#" data-section="#about" class="scroller btn btn-xlarge btn-primary">Learn More</a>
 			</div>	
 		</div>
@@ -79,27 +78,38 @@
 			<h1><strong>What we offer</strong></h1>
             <ul class="thumbnails">
               <li class="span4" style="margin-top: 0px;">
-                  <h1>Office Space</h1>
+                  <div class="thumbnail">
+                      <img alt="" src="assets/img/office_space.png"/>
+                  </div>
               </li>
-              <li class="span4">
-                  <h1>Funding</h1>
+              <li class="span4" style="margin-top: 0px;">
+                    <div class="thumbnail">
+                        <img alt="" src="assets/img/funding.png"/>
+                    </div>
               </li>
-              <li class="span4">
-                  <h1>Business Development</h1>
+              <li class="span4" style="margin-top: 0px;">
+                    <div class="thumbnail">
+                        <img alt="" src="assets/img/business_development.png"/>
+                    </div>
               </li>
             </ul>
             <ul class="thumbnails">
-                <li class="span4" >
-                    <h1>Marketing</h1>
+                <li class="span4" style="margin-top: 0px;">
+                    <div class="thumbnail">
+                        <img alt="" src="assets/img/marketing.png"/>
+                    </div>
+                </li>
+                <li class="span4" style="margin-top: 0px;">
+                    <div class="thumbnail">
+                        <img alt="" src="assets/img/expensive_networking.png"/>
+                    </div>
+                </li>
+                <li class="span4" style="margin-top: 0px;">
+                    <div class="thumbnail">
+                        <img alt="" src="assets/img/mentorship.png"/>
+                    </div>
                 </li>
 
-                <li class="span4">
-                    <h1>Expansive Network</h1>
-                </li>
-
-                <li class="span4">
-                    <h1>Mentorship</h1>
-                </li>
             </ul>
         </div>
     </div>
@@ -241,33 +251,31 @@
 	<div class="container-fluid" id="contact">
 		<div class="row-fluid dark span12" style="margin-top:30px;text-align:center;">
 			<h1><strong>So, what are you waiting for?</strong></h1>
-		</div>
 
-	<div class="container dark span12">
+            <div class="span9 offset1 whitebg">
+                <div class="span3" style="text-align:left;">
+                    <h2>Get in touch</h2>
 
-		<div class="span3 offset2">
-				<h2>Get in touch</h2>
+                    <address>
+                        <strong>Star Farm Ventures</strong><br>
+                        19W 21th Street, Suite 402<br>
+                        New York, NY 10010<br>
+                        <abbr title="Phone">Phone:</abbr> (646) 670-0025
+                    </address>
 
-				<address>
-				  <strong>Star Farm Ventures</strong><br>
-				  19W 21th Street, Suite 402<br>
-				  New York, NY 10010<br>
-				  <abbr title="Phone">Phone:</abbr> (646) 670-0025
-				</address>
-				 
-				<address>
-				  <strong>Tanya Low</strong><br>
-				  <a href="mailto:#">tanya@starfarmventures.com</a>
-				</address>		
-		</div>	
-		<div class="span6 pull-right">
-			<a class="twitter-timeline" href="https://twitter.com/StarFarmVenture" data-widget-id="323038649002369025">Tweets by @StarFarmVenture</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		</div>
-
-	</div>
-</div>   <!-- End Contact -->  
-	</div>
+                    <address>
+                        <strong>Tanya Low</strong><br>
+                        <a href="mailto:#">tanya@starfarmventures.com</a>
+                    </address>
+                </div>
+                <div class="span5 pull-right">
+                    <a class="twitter-timeline" href="https://twitter.com/StarFarmVenture" data-widget-id="323038649002369025">Tweets by @StarFarmVenture</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                </div>
+            </div>
+        </div>
+    </div>   <!-- End Contact -->
+</div>
 <script>
 $(function () {
     $(window).scroll(function(){
@@ -282,7 +290,7 @@ $(function () {
     // scroll nav
     $('.scroller').click(function(){
     	var section = $($(this).data("section"));
-    	var top = section.offset().top-77;
+    	var top = section.offset().top-75;
         $("html, body").animate({ scrollTop: top }, 700);
         return false;
     });

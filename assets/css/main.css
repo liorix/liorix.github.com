@@ -3,12 +3,12 @@
 
 body {
 	/* Change the background image here  */
-	background: url('../img/bg7.jpg') #000 top center fixed no-repeat;
+	background: url('../img/background.jpg') #000 top center  no-repeat;
 	background-size:100%;
 	font-family:'Open Sans',sans-serif;
 }
 
-a, a:visited{color:#FFFFFF;
+a, a:visited{color:blue;
 	
 	-webkit-transition:all .1s linear;
 	-moz-transition:all .1s linear;
@@ -17,7 +17,7 @@ a, a:visited{color:#FFFFFF;
 	transition:all .1s linear;
 	
 }
-a:hover,a:active{color:#a43053;
+a:hover,a:active{color: #052576;
 	text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ h1 {
 
 .main-container .container {
 	padding:30px;
-	height: 600px;
+	height: 400px;
 }
 
 /* Section Styles  */
@@ -75,15 +75,21 @@ h1 {
 }
 
 #about {
+    height: 630px;
 	/*background:#fff;*/
 	/*background-color:rgba(255,255,255,0.7);*/
-	background-color:rgba(0,0,0,0.8);
+	/*background-color:rgba(0,0,0,0.8);*/
+}
+
+#about img
+{
+    width: 200px;
 }
 
 #thespace
 {
-	background: url('../img/thespace.jpg') #000 top center no-repeat;
-	background-size: 130%;
+	/*: url('../img/thespace.jpg') #000 top center no-repeat;(/
+	/*background-size: 130%;*/
 	height: 700px;
     display: none;
 }
@@ -99,7 +105,7 @@ h1 {
 	border-radius: 10px;
     margin-top: 20px;
 	padding: 15px;
-	background-color:rgba(0,0,0,0.6);
+	/*background-color:rgba(0,0,0,0.6);*/
 	height: 160px;
 }
 
@@ -107,7 +113,7 @@ h1 {
 {
     /*background:#FFFFFF;*/
     /*background:#0E67B9;*/
-    background:#8B3C1A;
+    /*background:#8B3C1A;*/
 }
 
 #companies h1
@@ -123,15 +129,31 @@ h1 {
 }
 
 #team {
-	background:#0E67B9;
-	background:rgba(14,103,185,0.8);
+	/*background:#0E67B9;
+	background:rgba(14,103,185,0.8);*/
 }
+
+#team .thumbnail
+{
+    width: 220px;
+    margin: auto;
+}
+
+
 #contact {
-	background:#202020;	
+	/*background:#202020;*/
 }
 
 #contact .container{
-	height: 500px;
+
+}
+
+#contact .whitebg
+{
+    color: #000000;
+    padding: 30px;
+    background:rgba(255,255,255,0.7);
+    margin-bottom: 50px;
 }
 
 #contact .span4
@@ -412,3 +434,4 @@ h1 {
 {
 	color:white;
 }
+
