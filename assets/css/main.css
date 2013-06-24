@@ -4,7 +4,6 @@
 body {
 	/* Change the background image here  */
 	background: url('../img/background.jpg') #000 top center  no-repeat;
-	background-size:100%;
 	font-family:'Open Sans',sans-serif;
 }
 
