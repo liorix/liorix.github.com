@@ -4,7 +4,9 @@
 body {
 	/* Change the background image here  */
 	background: url('../img/background.jpg') #000 top center  no-repeat;
+    background-size: 100% 100%;
 	font-family:'Open Sans',sans-serif;
+    min-width: 1024px;
 }
 
 a, a:visited{color:blue;
@@ -51,7 +53,7 @@ h1 {
 
 
 .main-container .container {
-	padding:30px;
+	padding:0px;
 	height: 400px;
 }
 
@@ -60,7 +62,7 @@ h1 {
 #intro {
 	margin-top:160px;
 	text-align:center;
-	min-height:500px;
+	min-height:450px;
 	padding:0 0 50px;
 }
 
@@ -74,7 +76,7 @@ h1 {
 }
 
 #about {
-    height: 630px;
+    height: 600px;
 	/*background:#fff;*/
 	/*background-color:rgba(255,255,255,0.7);*/
 	/*background-color:rgba(0,0,0,0.8);*/
@@ -124,7 +126,7 @@ h1 {
 
 #companies ul
 {
-	margin-top: 30px;
+	margin-top: 0px;
 }
 
 #team {
@@ -132,9 +134,9 @@ h1 {
 	background:rgba(14,103,185,0.8);*/
 }
 
-#team .thumbnail
+#team .span4 .thumbnail > img
 {
-    width: 220px;
+    width: 200px;
     margin: auto;
 }
 
