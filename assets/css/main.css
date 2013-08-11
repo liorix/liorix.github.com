@@ -227,6 +227,56 @@ h1 {
     color: #F3A31D;
 }
 
+.container .wisepricer
+{
+    background: #42C6EC;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel4.cur
+{
+    background: #42C6EC;
+    color: #42C6EC;
+}
+
+.container .roomixer
+{
+    background: #009246;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel5.cur
+{
+    background: #009246;
+    color: #009246;
+}
+
+.container .swayy
+{
+    background: #00Ab7F;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel6.cur
+{
+    background: #00Ab7F;
+    color: #00Ab7F;
+}
+
+.container .morpheus
+{
+    background: #4E4D49;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel7.cur
+{
+    background: #4E4D49;
+    color: #4E4D49;
+}
+
+
+
 .container .anythingSlider-default.activeSlider .anythingControls a
 {
     color: #E3E4E6;
@@ -286,6 +336,11 @@ h1 {
 {
     color: #ffffff;;
     background: #57585A;
+}
+
+.whitebg
+{
+    background: #FFFFFF;
 }
 
 .overview
