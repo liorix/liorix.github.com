@@ -317,6 +317,59 @@ h1 {
     color: #178CC3;
 }
 
+.container .askem
+{
+    background: #16394b;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel12.cur
+{
+    background: #16394b;
+    color: #16394b;
+}
+
+.container .ringya
+{
+    background: #00A0d2;
+    color: #ffffff;
+}
+
+.container .ringya2
+{
+    background: #f98600;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel13.cur
+{
+    background: #f98600;
+    color: #f98600;
+}
+
+.container .seven_elements
+{
+    background: #EEA200;
+    color: #ffffff;
+}
+
+.container .seven_elements2
+{
+    background: #800B50;
+    color: #ffffff;
+}
+
+.container .seven_elements3
+{
+    background: #283A86;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel14.cur
+{
+    background: #EEA200;
+    color: #EEA200;
+}
 .container .anythingSlider-default.activeSlider .anythingControls a
 {
     color: #E3E4E6;
