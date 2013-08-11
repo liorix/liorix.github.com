@@ -449,10 +449,150 @@ h1 {
 
 .overview
 {
-    margin-top: 100px;
+    margin-top: 20px;
     font-size: 30px;
     line-height: 32px;
     margin-right: 60px;
     padding: 10px;
     font-style: italic;
+}
+
+.equala_logo
+{
+    margin-top: 70px;
+    margin-left: -5px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.bizzabo_logo
+{
+    margin-top: 70px;
+    margin-left: 35px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.appmyday_logo
+{
+    margin-top: 70px;
+    margin-left: 75px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.wisepricer_logo
+{
+    margin-top: 70px;
+    margin-left: 115px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.roomixer_logo
+{
+    margin-top: 70px;
+    margin-left: 155px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.swayy_logo
+{
+    margin-top: 70px;
+    margin-left: 210px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.morpheus_logo
+{
+    margin-top: 70px;
+    margin-left: 265px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.playgem_logo
+{
+    margin-top: 70px;
+    margin-left: 320px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.doalbums_logo
+{
+    margin-top: 70px;
+    margin-left: 375px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.justad_logo
+{
+    margin-top: 70px;
+    margin-left: 425px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.licensario_logo
+{
+    margin-top: 70px;
+    margin-left: 475px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.askem_logo
+{
+    margin-top: 70px;
+    margin-left: 525px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.ringya_logo
+{
+    margin-top: 70px;
+    margin-left: 575px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
+}
+
+.seven_elements_logo
+{
+    margin-top: 70px;
+    margin-left: 600px;
+    display: block;
+    width: 220px;
+    height: 60px;
+    background: url('../img/equala.png');
 }
