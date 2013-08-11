@@ -275,7 +275,47 @@ h1 {
     color: #4E4D49;
 }
 
+.container .playgem
+{
+    background: #A1D841;
+    color: #ffffff;
+}
 
+.container .anythingSlider-default.activeSlider .anythingControls a.panel8.cur
+{
+    background: #A1D841;
+    color: #A1D841;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel9.cur
+{
+    background: #000000;
+    color: #000000;
+}
+
+.container .justad
+{
+    background: #1B8EB8;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel10.cur
+{
+    background: #1B8EB8;
+    color: #1B8EB8;
+}
+
+.container .licensario
+{
+    background: #007D64;
+    color: #ffffff;
+}
+
+.container .anythingSlider-default.activeSlider .anythingControls a.panel11.cur
+{
+    background: #178CC3;
+    color: #178CC3;
+}
 
 .container .anythingSlider-default.activeSlider .anythingControls a
 {
@@ -341,6 +381,17 @@ h1 {
 .whitebg
 {
     background: #FFFFFF;
+}
+
+.blackbg
+{
+    background: #000000;
+    color: #FFFFFF;
+}
+
+.blackbg .founders_title
+{
+    color: #ffffff;
 }
 
 .overview
