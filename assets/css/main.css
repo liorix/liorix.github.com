@@ -596,3 +596,10 @@ h1 {
     height: 60px;
     background: url('../img/equala.png');
 }
+
+.row .span6 .span2
+{
+    margin-left: 75px;
+    font-size: 18px;
+    font-weight: bold;
+}
