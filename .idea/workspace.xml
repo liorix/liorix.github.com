@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48525ea5-e57b-4205-bd3a-65dae4defe8c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/appmyday_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bizzabo_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/codewalker_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/justad_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/licensario_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/marketing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mentorship.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/office_space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/roomixer_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/swayy_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/taboola_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/thespace.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/wisepricer_logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <ignored path="liorix.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -179,7 +164,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="191" column="19" selection-start="2946" selection-end="2946" vertical-scroll-proportion="0.34768212">
+            <state line="82" column="22" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.4321192">
               <folding />
             </state>
           </provider>
@@ -672,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="19" selection-start="2946" selection-end="2946" vertical-scroll-proportion="0.34768212">
+        <state line="82" column="22" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.4321192">
           <folding />
         </state>
       </provider>
