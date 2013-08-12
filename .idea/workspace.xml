@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48525ea5-e57b-4205-bd3a-65dae4defe8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <ignored path="liorix.github.com.iws" />
@@ -39,7 +38,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="604" column="16" selection-start="34061" selection-end="34061" vertical-scroll-proportion="14.267676">
+            <state line="604" column="16" selection-start="34076" selection-end="34076" vertical-scroll-proportion="0.25252524">
               <folding>
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -572,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="604" column="16" selection-start="34061" selection-end="34061" vertical-scroll-proportion="14.267676">
+        <state line="604" column="16" selection-start="34076" selection-end="34076" vertical-scroll-proportion="0.25252524">
           <folding>
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
