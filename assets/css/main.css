@@ -130,6 +130,11 @@ h1 {
     margin: 0 auto;
     padding: 0 145px 28px 145px;
 }
+.container .anythingSlider-default.activeSlider .anythingControls a:hover
+{
+    background: #888888;
+    color: #888888;
+}
 
 .container #slider li{
     font-size: 80px;
@@ -175,6 +180,7 @@ h1 {
 
 .container .anythingControls
 {
+    position: absolute;
     margin-top: -600px;
 }
 
@@ -370,6 +376,8 @@ h1 {
     background: #EEA200;
     color: #EEA200;
 }
+
+
 .container .anythingSlider-default.activeSlider .anythingControls a
 {
     color: #E3E4E6;
