@@ -726,9 +726,19 @@ $('#slider').anythingSlider({
     // Callback when slide initiates, before control animation
     onSlideInit: function(e, slider) {},
     // Callback before slide animates
-    onSlideBegin: function(e, slider) {},
+    onSlideBegin: function(e, slider) {$('.panel').animate({
+        opacity: 0.05
+    }, 100, function() {
+
+        // Animation complete.
+    });},
     // Callback when slide completes - no event variable!
-    onSlideComplete: function(slider) {},
+    onSlideComplete: function(slider) {$('.panel').animate({
+        opacity: 1
+    }, 500, function() {
+
+        // Animation complete.
+    });},
     // Callback when slider resizes
     onSliderResize: function(e, slider) {},
 
