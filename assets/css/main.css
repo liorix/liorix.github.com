@@ -189,7 +189,7 @@ h1 {
 .container .anythingControls
 {
     position: absolute;
-    margin-top: -600px;
+    margin-top: -650px;
 }
 
 .container .equala
@@ -488,19 +488,19 @@ h1 {
     margin-top: 70px;
     margin-left: 35px;
     display: block;
-    width: 220px;
+    width: 195px;
     height: 60px;
-    background: url('../img/equala.png');
+    background: url('../img/bizzabo.png');
 }
 
 .appmyday_logo
 {
-    margin-top: 70px;
-    margin-left: 75px;
+    margin-top: 75px;
+    margin-left: 65px;
     display: block;
-    width: 220px;
+    width: 150px;
     height: 60px;
-    background: url('../img/equala.png');
+    background: url('../img/appmyday.png');
 }
 
 .wisepricer_logo
@@ -518,9 +518,9 @@ h1 {
     margin-top: 70px;
     margin-left: 155px;
     display: block;
-    width: 220px;
+    width: 279px;
     height: 60px;
-    background: url('../img/equala.png');
+    background: url('../img/roomixer.png');
 }
 
 .swayy_logo
@@ -566,11 +566,11 @@ h1 {
 .justad_logo
 {
     margin-top: 70px;
-    margin-left: 425px;
+    margin-left: 445px;
     display: block;
-    width: 220px;
+    width: 180px;
     height: 60px;
-    background: url('../img/equala.png');
+    background: url('../img/justad.png');
 }
 
 .licensario_logo
