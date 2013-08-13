@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48525ea5-e57b-4205-bd3a-65dae4defe8c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/swayy.png" afterPath="$PROJECT_DIR$/assets/img/swayy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/wisepricer.png" afterPath="$PROJECT_DIR$/assets/img/wisepricer.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
     </list>
     <ignored path="liorix.github.com.iws" />
@@ -164,7 +166,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="22" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.4321192">
+            <state line="612" column="14" selection-start="9516" selection-end="9516" vertical-scroll-proportion="0.82615894">
               <folding />
             </state>
           </provider>
@@ -657,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="22" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.4321192">
+        <state line="612" column="14" selection-start="9516" selection-end="9516" vertical-scroll-proportion="0.82615894">
           <folding />
         </state>
       </provider>
