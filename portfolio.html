@@ -705,9 +705,9 @@ $('#slider').anythingSlider({
     // Resume slideshow after user interaction, only if autoplayLocked is true (in milliseconds).
     resumeDelay: 15000,
     // How long the slideshow transition takes (in milliseconds)
-    animationTime: 600,
+    animationTime: 0,
     // How long to pause slide animation before going to the desired slide (used if you want your "out" FX to show).
-    delayBeforeAnimate  : 0,
+    delayBeforeAnimate  : 200,
 
     // *********** Callbacks ***********
     // Callback before the plugin initializes
@@ -728,7 +728,7 @@ $('#slider').anythingSlider({
     // Callback before slide animates
     onSlideBegin: function(e, slider) {$('.panel').animate({
         opacity: 0.05
-    }, 100, function() {
+    }, 200, function() {
 
         // Animation complete.
     });},
