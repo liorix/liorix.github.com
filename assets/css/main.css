@@ -6,7 +6,7 @@ body {
     font-family: 'Pathway Gothic One', sans-serif;
 }
 
-a, a:visited{color:blue;
+a, a:visited{color:#ffffff;
 	
 	-webkit-transition:all .1s linear;
 	-moz-transition:all .1s linear;
@@ -15,7 +15,7 @@ a, a:visited{color:blue;
 	transition:all .1s linear;
 	
 }
-a:hover,a:active{color: #052576;
+a:hover,a:active{color: #ffffff;
 	text-decoration: none;
 }
 
@@ -139,14 +139,16 @@ h1 {
     padding-right: 20px;
 }
 
-.container .anythingSlider-default .arrow a
+.container .anythingSlider-default .arrow a,.container .anythingSlider-default .arrow a:hover
 {
     background: url(../img/right-arrow.png) no-repeat;
+    width: 130px;
 }
 
-.container .anythingSlider-default .arrow.back a
+.container .anythingSlider-default .arrow.back a, .container .anythingSlider-default .arrow.back a:hover
 {
     background: url(../img/left-arrow.png) no-repeat;
+    width: 150px;
 }
 
 .container .anythingSlider-default {
@@ -498,18 +500,18 @@ h1 {
     margin-top: 70px;
     margin-left: 0px;
     display: block;
-    width: 220px;
-    height: 60px;
+    width: 180px;
+    height: 50px;
     background: url('../img/equala.png');
 }
 
 .bizzabo_logo
 {
     margin-top: 70px;
-    margin-left: 35px;
+    margin-left: 55px;
     display: block;
-    width: 195px;
-    height: 60px;
+    width: 152px;
+    height: 50px;
     background: url('../img/bizzabo.png');
 }
 
@@ -526,90 +528,90 @@ h1 {
 .wisepricer_logo
 {
     margin-top: 70px;
-    margin-left: 115px;
+    margin-left: 135px;
     display: block;
-    width: 267px;
-    height: 60px;
+    width: 205px;
+    height: 50px;
     background: url('../img/wisepricer.png');
 }
 
 .roomixer_logo
 {
     margin-top: 70px;
-    margin-left: 155px;
+    margin-left: 195px;
     display: block;
-    width: 279px;
-    height: 60px;
+    width: 215px;
+    height: 50px;
     background: url('../img/roomixer.png');
 }
 
 .swayy_logo
 {
-    margin-top: 70px;
-    margin-left: 230px;
+    margin-top: 80px;
+    margin-left: 270px;
     display: block;
-    width: 220px;
-    height: 60px;
+    width: 163px;
+    height: 38px;
     background: url('../img/swayy.png');
 }
 
 .morpheus_logo
 {
     margin-top: 70px;
-    margin-left: 265px;
+    margin-left: 285px;
     display: block;
-    width: 300px;
-    height: 135px;
+    width: 222px;
+    height: 100px;
     background: url('../img/morpheus.png');
 }
 
 .playgem_logo
 {
-    margin-top: 70px;
-    margin-left: 340px;
+    margin-top: 75px;
+    margin-left: 360px;
     display: block;
-    width: 220px;
-    height: 60px;
+    width: 167px;
+    height: 50px;
     background: url('../img/playgem.png');
 }
 
 .doalbums_logo
 {
     margin-top: 70px;
-    margin-left: 375px;
+    margin-left: 395px;
     display: block;
-    width: 253px;
-    height: 60px;
+    width: 195px;
+    height: 50px;
     background: url('../img/doalbums.png');
 }
 
 .justad_logo
 {
-    margin-top: 70px;
-    margin-left: 465px;
+    margin-top: 75px;
+    margin-left: 490px;
     display: block;
-    width: 180px;
-    height: 60px;
+    width: 140px;
+    height: 50px;
     background: url('../img/justad.png');
 }
 
 .licensario_logo
 {
     margin-top: 70px;
-    margin-left: 475px;
+    margin-left: 495px;
     display: block;
-    width: 265px;
-    height: 60px;
+    width: 200px;
+    height: 50px;
     background: url('../img/licensario.png');
 }
 
 .askem_logo
 {
-    margin-top: 70px;
-    margin-left: 565px;
+    margin-top: 75px;
+    margin-left: 595px;
     display: block;
-    width: 197px;
-    height: 65px;
+    width: 152px;
+    height: 50px;
     background: url('../img/askem.png');
 }
 
