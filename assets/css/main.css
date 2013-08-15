@@ -3,7 +3,7 @@
 
 body {
 	/* Change the background image here  */
-    font-family: 'Doppio One', sans-serif;
+    font-family: 'Pathway Gothic One', sans-serif;
 }
 
 a, a:visited{color:blue;
@@ -59,7 +59,7 @@ h1 {
 #header .span2
 {
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 28px;
     font-weight: bold;
     text-align: center;
 }
@@ -167,6 +167,10 @@ h1 {
     font-style: italic;
 }
 
+#slider li div:first-child
+{
+    font-family: 'Unlock';
+}
 .container li div.frame.pull-left
 {
     color: #ffffff;
@@ -191,6 +195,7 @@ h1 {
 {
     position: absolute;
     margin-top: -650px;
+    margin-left: 35px;
 }
 
 .container .equala
@@ -477,7 +482,7 @@ h1 {
 .equala_logo
 {
     margin-top: 70px;
-    margin-left: -5px;
+    margin-left: 0px;
     display: block;
     width: 220px;
     height: 60px;
@@ -497,7 +502,7 @@ h1 {
 .appmyday_logo
 {
     margin-top: 75px;
-    margin-left: 65px;
+    margin-left: 100px;
     display: block;
     width: 150px;
     height: 60px;
@@ -527,7 +532,7 @@ h1 {
 .swayy_logo
 {
     margin-top: 70px;
-    margin-left: 210px;
+    margin-left: 230px;
     display: block;
     width: 220px;
     height: 60px;
@@ -547,7 +552,7 @@ h1 {
 .playgem_logo
 {
     margin-top: 70px;
-    margin-left: 320px;
+    margin-left: 340px;
     display: block;
     width: 220px;
     height: 60px;
@@ -567,7 +572,7 @@ h1 {
 .justad_logo
 {
     margin-top: 70px;
-    margin-left: 445px;
+    margin-left: 465px;
     display: block;
     width: 180px;
     height: 60px;
@@ -587,7 +592,7 @@ h1 {
 .askem_logo
 {
     margin-top: 70px;
-    margin-left: 525px;
+    margin-left: 565px;
     display: block;
     width: 197px;
     height: 65px;
@@ -597,7 +602,7 @@ h1 {
 .ringya_logo
 {
     margin-top: 75px;
-    margin-left: 635px;
+    margin-left: 670px;
     display: block;
     width: 144px;
     height: 65px;
@@ -607,16 +612,16 @@ h1 {
 .seven_elements_logo
 {
     margin-top: 70px;
-    margin-left: 645px;
+    margin-left: 665px;
     display: block;
     width: 205px;
     height: 65px;
     background: url('../img/7elements.png');
 }
 
-.row .span6 .span2
+.row .span6 .span3
 {
     margin-left: 75px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
 }
