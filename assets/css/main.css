@@ -51,9 +51,23 @@ h1 {
 
 }
 
-
+.container .span10 .span6 img
+{
+    width: 180px;
+    height: 180px;
+}
 .main-container .container {
 	padding:0px;
+}
+
+#header .span2:first-child
+{
+    text-align: left;
+}
+
+#header .span2:last-child
+{
+    text-align: right;
 }
 
 #header .span2
@@ -624,4 +638,12 @@ h1 {
     margin-left: 75px;
     font-size: 17px;
     font-weight: bold;
+}
+
+.social a i.icon-circle{
+    color: #000000;
+}
+
+.social a i{
+    color: #FFFFFF;
 }
