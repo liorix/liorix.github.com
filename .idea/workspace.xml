@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48525ea5-e57b-4205-bd3a-65dae4defe8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/askem.png" afterPath="$PROJECT_DIR$/assets/img/askem.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/bizzabo.png" afterPath="$PROJECT_DIR$/assets/img/bizzabo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/doalbums.png" afterPath="$PROJECT_DIR$/assets/img/doalbums.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/equala.png" afterPath="$PROJECT_DIR$/assets/img/equala.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/justad.png" afterPath="$PROJECT_DIR$/assets/img/justad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/left-arrow.png" afterPath="$PROJECT_DIR$/assets/img/left-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/licensario.png" afterPath="$PROJECT_DIR$/assets/img/licensario.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/morpheus.png" afterPath="$PROJECT_DIR$/assets/img/morpheus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/playgem.png" afterPath="$PROJECT_DIR$/assets/img/playgem.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/right-arrow.png" afterPath="$PROJECT_DIR$/assets/img/right-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/roomixer.png" afterPath="$PROJECT_DIR$/assets/img/roomixer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/swayy.png" afterPath="$PROJECT_DIR$/assets/img/swayy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/wisepricer.png" afterPath="$PROJECT_DIR$/assets/img/wisepricer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
     </list>
     <ignored path="liorix.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1635" selection-end="3592" vertical-scroll-proportion="9.125">
+            <state line="5" column="74" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -51,7 +36,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="510" column="0" selection-start="31380" selection-end="33337" vertical-scroll-proportion="-8.34">
+            <state line="6" column="74" selection-start="284" selection-end="284" vertical-scroll-proportion="-1.8">
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -149,7 +134,7 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="195" column="6" selection-start="8383" selection-end="10256" vertical-scroll-proportion="-16.583334">
+            <state line="195" column="6" selection-start="8383" selection-end="10256" vertical-scroll-proportion="-121.875">
               <folding>
                 <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -173,7 +158,7 @@
       <file leaf-file-name="team.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="0" selection-start="8262" selection-end="10219" vertical-scroll-proportion="0.11467116">
+            <state line="4" column="56" selection-start="149" selection-end="227" vertical-scroll-proportion="0.10118044">
               <folding>
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -208,7 +193,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="369" selection-end="373" vertical-scroll-proportion="-10.384615">
+            <state line="75" column="17" selection-start="1084" selection-end="1085" vertical-scroll-proportion="-16.384615">
               <folding />
             </state>
           </provider>
@@ -228,10 +213,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/team.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -491,21 +476,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="369" selection-end="373" vertical-scroll-proportion="-10.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1635" selection-end="3592" vertical-scroll-proportion="9.125">
+        <state line="75" column="17" selection-start="1084" selection-end="1085" vertical-scroll-proportion="-16.384615">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="510" column="0" selection-start="31380" selection-end="33337" vertical-scroll-proportion="-8.34">
+        <state line="6" column="74" selection-start="284" selection-end="284" vertical-scroll-proportion="-1.8">
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -599,9 +577,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="74" selection-start="247" selection-end="247" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="6" selection-start="8383" selection-end="10256" vertical-scroll-proportion="-16.583334">
+        <state line="195" column="6" selection-start="8383" selection-end="10256" vertical-scroll-proportion="-121.875">
           <folding>
             <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -623,7 +608,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="0" selection-start="8262" selection-end="10219" vertical-scroll-proportion="0.11467116">
+        <state line="4" column="56" selection-start="149" selection-end="227" vertical-scroll-proportion="0.10118044">
           <folding>
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
